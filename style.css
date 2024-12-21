@@ -201,6 +201,7 @@ section {
 .icon {
   cursor: pointer;
   height: 3rem;
+  object-fit: cover;
 }
 
 .btn-container {
