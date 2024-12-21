@@ -60,7 +60,7 @@
 
   .article-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
   }
   article {
     font-size: 1rem;
